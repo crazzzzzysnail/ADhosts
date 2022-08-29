@@ -1,0 +1,194 @@
+# Last updated: 2022-08-06
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1	localhost
+::1	localhost
+::1	ip6-localhost
+::1	ip6-loopback
+# Localhost (DO NOT REMOVE) End
+
+# HK Start
+104.17.213.193   lihkg.com
+157.240.9.18     mingpao.com
+104.21.14.63     theinitium.com
+104.20.72.239    thestandnews.com
+104.20.72.239    cdn.thestandnews.com
+# HK End
+
+# Apkpure Start
+104.20.83.194	apkpure.com
+104.20.83.194	m.apkpure.com
+104.20.83.194	download.apkpure.com
+104.20.83.194	translate.apkpure.com
+# Apkpure End
+
+# Aptoide Start
+173.244.209.150   aptoide.com 
+34.240.108.2      en.aptoide.com
+# Aptoide End
+
+# Apkmirror Start
+104.19.136.58	apkmirror.com
+# Apkmirror End
+
+# Uptodown Start
+104.81.184.29	uptodown.com
+104.105.104.18  cn.uptodown.com
+104.105.104.18  uptodown-android.cn.uptodown.com
+# Uptodown End
+
+# Wikinews Start
+103.102.166.224    wikinews.org
+103.102.166.224    m.wikinews.org 
+103.102.166.224    zh.wikinews.org
+103.102.166.224    zh.m.wikinews.org
+# Wikinews End
+
+# MEGA Start
+89.44.169.139   mega.io
+# MEGA End
+
+# V2ex Start
+172.67.3.188   v2ex.com
+# V2ex End
+
+# Hosts DNS Start
+104.26.9.179    ping.pe
+104.26.3.223    whoer.net
+95.85.16.212    ipleak.net
+104.21.5.253    dnslookup.org
+104.26.7.89     dnschecker.org
+104.26.7.229    whatsmydns.net
+172.67.165.117  check-host.net
+118.212.233.24  ipip.net
+# Hosts DNS End
+
+# Github Start
+140.82.113.4     github.com  
+140.82.121.6     api.github.com  
+140.82.113.4     gist.github.com
+140.82.121.9     nodeload.github.com
+140.82.121.9     codeload.github.com 
+52.2.180.220     collector.githubapp.com
+185.199.110.133  collector-cdn.github.com
+185.199.110.133  raw.githubusercontent.com
+185.199.110.133  avatars0.githubusercontent.com
+185.199.110.133  avatars1.githubusercontent.com
+185.199.110.133  avatars2.githubusercontent.com
+185.199.110.133  avatars3.githubusercontent.com
+185.199.110.133  avatars4.githubusercontent.com
+185.199.110.133  avatars5.githubusercontent.com
+185.199.110.133  avatars6.githubusercontent.com
+185.199.110.133  avatars7.githubusercontent.com
+185.199.110.133  avatars8.githubusercontent.com
+# Github End
+
+# Gmail SMTP/POP/IMAP Start
+64.233.188.16	gmr-smtp-in.l.google.com
+64.233.188.16	gmail-smtp-in.l.google.com
+64.233.188.16	alt1.gmail-smtp-in.l.google.com
+64.233.188.16	alt2.gmail-smtp-in.l.google.com
+64.233.188.16	alt3.gmail-smtp-in.l.google.com
+64.233.188.16	alt4.gmail-smtp-in.l.google.com
+64.233.188.16	googlemail-imap.l.google.com
+64.233.188.16	googlemail-smtp.l.google.com
+64.233.188.16	googlemail-pop.l.google.com
+64.233.188.16	pop.googlemail.com
+64.233.188.16	imap.googlemail.com
+64.233.188.16	smtp.googlemail.com
+64.233.188.16	gmail-imap.l.google.com
+64.233.188.16	imap.gmail.com
+64.233.188.16	googlemail-pop.l.google.com
+64.233.188.16   pop.gmail.com
+64.233.188.16	pop.googlemail.com
+64.233.188.16	gmail-smtp.l.google.com
+64.233.188.16	smtp.gmail.com
+64.233.188.16	gmail-smtp-msa.l.google.com
+# Gmail SMTP/POP/IMAP End
+
+# 加密货币、比特币、交易所 Start
+
+# Binance Start
+13.226.253.16  www.binance.com
+13.226.239.112 api.binance.com
+13.226.253.25  labs.binance.com
+54.230.21.35   launchpad.binance.com
+104.16.51.111  binance.zendesk.com
+# Binance End
+
+# Kucoin Start
+104.18.36.15   www.kucoin.com
+104.16.51.111  kucoin.zendesk.com
+# Kucoin End
+
+# Gate Start
+104.18.29.208  www.gate.io
+104.16.53.111  support.gate.io
+# Gate End
+
+# OTC Start
+104.17.60.58   paxful.com
+54.230.21.77   www.pexpay.com
+104.18.201.62  localbitcoins.com
+54.230.21.107  localcryptos.com
+# OTC End
+
+# Others Start
+104.18.33.32   www.okx.com
+172.64.145.249 www.huobi.com
+104.16.175.181 www.bitfinex.com
+# Others End
+
+# 加密货币、比特币、交易所 End
+
+
+
+# SimilarWeb Start
+99.84.198.60    similarweb.com
+104.16.53.111   support.similarweb.com
+# SimilarWeb End
+
+# Alexa Start
+13.225.149.84  www.alexa.com 
+13.225.149.52  try.alexa.com
+13.227.220.90  hub.alexa.com
+13.227.220.20  blog.alexa.com
+104.16.51.111  support.alexa.com
+# Alexa End
+
+# OneDrive Start
+13.107.42.12	api.onedrive.com
+13.107.42.13	onedrive.live.com
+13.107.6.168    admin.onedrive.com
+136.147.129.27  mail.onedrive.com
+184.26.240.242	api.onedrive.live.com
+104.127.223.39  cid-36f4d1230f8a673c.onedrive.live.com
+# OneDrive End
+
+# Name Start
+35.186.227.193  freenom.com
+# Name End
+
+# Medium Start
+104.16.53.111  help.medium.com
+162.159.153.4  medium.com
+162.159.153.4  api.medium.com
+162.159.153.4  blog.medium.com
+162.159.153.4  miro.medium.com
+162.159.153.4  glyph.medium.com
+162.159.153.4  cdn-static-1.medium.com
+162.159.153.4  cdn-images-1.medium.com
+162.159.153.4  cdn-images-2.medium.com
+# Medium End
+
+# Investing Start
+104.18.42.82   investing.com
+172.64.145.174 www.investing.com
+13.226.225.55  cn.tradingview.com
+13.226.225.19  www.tradingview.com
+# Investing End
+
+# Others Start
+104.21.42.149   free-ss.site  
+101.32.11.178   www.423down.com
+199.180.254.202 www.cpzhan.com
+# Others End
